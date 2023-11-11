@@ -1,0 +1,30 @@
+*
+{
+font-family: 'Minecraftia', sans-serif;
+padding: 0;
+margin: 0;
+background-color: aliceblue;
+}
+
+.grid_min
+{
+
+display: grid;
+gap: 1px;
+
+}
+.grid_item
+{
+    position: relative;
+
+    left: 200px;
+    width: 32px;
+    height: 32px;
+
+    border: 1px solid #fff0f0;
+    cursor: pointer;
+    
+}
+
+
+
